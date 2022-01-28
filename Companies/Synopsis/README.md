@@ -1,6 +1,6 @@
-// Interview Questions
+**"Interview Question"**
 
 
-Pointers
+- Pointers
 
-Pass by Pointer vs Pass by Reference
+- Pass by Pointer vs Pass by Reference
