@@ -18,7 +18,6 @@ class Solution {
             return head;
         }
         
-        ListNode prev = null;
         ListNode dummy = new ListNode(0, head);
         ListNode curr = dummy;
         
