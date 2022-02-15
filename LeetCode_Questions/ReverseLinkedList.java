@@ -29,3 +29,27 @@ class Solution {
         return prev_node;
     }
 }
+
+
+
+// class Solution {
+    
+//     private ListNode newHead = null;
+    
+//     public ListNode reverseList(ListNode head)
+//     {
+//         ListNode curr = head;
+//         while (curr != null) {
+//             ListNode temp = curr.next;
+//             addAtHead(curr);
+//             curr = temp;
+//         }
+        
+//         return newHead;
+//     }
+    
+//     public void addAtHead(ListNode node) {
+//             node.next = newHead;
+//             newHead = node;
+//     }
+// }
