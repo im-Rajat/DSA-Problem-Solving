@@ -1,2 +1,4 @@
 # Interviews
-Solving Technical Interview Questions and LeetCode Problems
+
+- Solving Technical Interview Questions
+- Solving LeetCode Problems
