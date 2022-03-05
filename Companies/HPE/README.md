@@ -1,9 +1,11 @@
-**"Interview Questions - Hewlett Packard Enterprise (HPE)"**
+# Interview Questions - Hewlett Packard Enterprise (HPE)
 
-
+**Round 1 : Technical**
 - Remove the duplicate elements from an array (DeleteDuplicates.c)
 - Example of Recursion (Factorial.c)
 - Reverse Linked List (ReverseLinkedList.c)
+
+**Round 2 : Technical**
 - Set / Clear a bit in given n and k (SetClearBit.c)
 - Insert in sorted linked list (SortedInsertLinkedList.c)
 - Difference between malloc and calloc
@@ -16,6 +18,8 @@
 - Binary Tree
 - Binary Search Tree
 - Binary Search Tree Traversals - Preorder, Inorder, Postorder, Inorder (BinarySearchTree.c)
+
+**Round 3 : Managerial/Technical**
 - Binary representation of a given number (use bit manipulation) (BinaryOfNumber.c)
 - Pointer related questions
 - Output of a pointer related program (PointerOutput.c)
