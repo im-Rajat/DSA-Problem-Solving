@@ -1,5 +1,6 @@
 # Companies
 
+- Amagi Media Labs
 - Snapdeal
 - Arcesium
 - Pramata Knowledge Solutions
