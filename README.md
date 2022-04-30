@@ -1,4 +1,3 @@
-# Interviews
+# DSA-Problem-Solving
 
-- Solving Technical Interview Questions
-- Solving LeetCode Problems
+- Solving DSA Problems
