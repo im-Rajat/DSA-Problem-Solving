@@ -1,4 +1,6 @@
-Solving Leet Code Problems :
+# LeetCode Problems
+
+- Solving LeetCode Problems :
 
 https://leetcode.com/study-plan/algorithm/
 
