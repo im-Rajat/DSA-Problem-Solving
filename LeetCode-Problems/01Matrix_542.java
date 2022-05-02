@@ -51,5 +51,4 @@ class Solution
         
         return mat;
     }
-    
 }
