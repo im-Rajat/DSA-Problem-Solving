@@ -4,8 +4,6 @@
 
 class Solution {
     
-    HashSet<List<Integer>> set = new HashSet<>();
-    
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         
