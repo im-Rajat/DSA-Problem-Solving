@@ -1,5 +1,5 @@
 // 55. Jump Game
-// https://leetcode.com/problems/jump-game/submissions/
+// https://leetcode.com/problems/jump-game/
 
 
 // Using Greedy Approach O(n)
